@@ -1,2 +1,2 @@
-# Fedha Protocol
-Ethereum smart contracts for the Fedha Protocol.
+# Fedha Wallet
+Frontend user wallet UI for the Fedha Protocol.
